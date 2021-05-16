@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "c:\\Users\\known\\.venv\\youtube\\Scripts\\python.exe",
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "jupyter.jupyterServerType": "local"
+}
